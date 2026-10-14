@@ -4,7 +4,7 @@ Pulls welcome-bonus data from 3 South African betting operators, uses a language
 to turn the free-text terms into structured fields, writes them to a JSON file, and
 displays them on a single web page.
 
-**Live page:** <your-project>.vercel.app
+**Live page:** https://casino-bonus-scraper-iota.vercel.app/
 
 ## Source choice
 
