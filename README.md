@@ -41,6 +41,11 @@ Four fields per source, matching the brief:
 5. `public/index.html` — reads the JSON and renders a mobile-first table (collapses to
    stacked cards under 640px).
 
+## Requirements
+
+- Node.js 18 or newer
+- A free Groq API key (https://console.groq.com/keys)
+
 ## Install
 
 ```bash
