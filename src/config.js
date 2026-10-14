@@ -23,11 +23,6 @@ module.exports = {
     },
   ],
 
-  llm: {
-    model: 'gpt-4o-mini',
-    temperature: 0,
-  },
-
   outputPath: './output/bonuses.json',
   requestDelayMs: 2000,
 };

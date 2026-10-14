@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const robotsParser = require('robots-parser');
 const axios = require('axios');
 
-const USER_AGENT = 'BonusDataBot/1.0 (+contact: you@example.com)';
+const USER_AGENT = 'BonusDataBot/1.0 (+contact: banelekubheka9@gmail.com)';
 
 async function isAllowed(url) {
   const { protocol, host } = new URL(url);
