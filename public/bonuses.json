@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Betway South Africa",
+    "welcome_bonus": null,
+    "wagering_requirement": null,
+    "minimum_deposit": null,
+    "source_url": "https://www.betway.co.za/promotions"
+  },
+  {
+    "name": "Hollywoodbets",
+    "welcome_bonus": "R25 Sign Up Bonus",
+    "wagering_requirement": null,
+    "minimum_deposit": null,
+    "source_url": "https://www.hollywoodbets.net/promotions"
+  },
+  {
+    "name": "World Sports Betting",
+    "welcome_bonus": "100% match up to R20,000",
+    "wagering_requirement": null,
+    "minimum_deposit": null,
+    "source_url": "https://www.worldsportsbetting.co.za/promotions"
+  }
+]

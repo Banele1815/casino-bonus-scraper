@@ -1,0 +1,24 @@
+{
+  "name": "casino-bonus-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes welcome bonus data from 3 SA betting operators, extracts structured fields with an LLM, and outputs JSON for a static web page.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "scraper",
+    "bonus",
+    "llm"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.0",
+    "groq-sdk": "^1.6.0",
+    "openai": "^4.67.0",
+    "playwright": "^1.64.1",
+    "robots-parser": "^3.0.1"
+  }
+}
